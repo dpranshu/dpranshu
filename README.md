@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Pranshu, a full stack developer passionate about building web apps with clean code and creative user interfaces. I'm currently freelancing, learning, and exploring new job opportunities while working on real-world projects that help me grow as a developer.<br><br>I enjoy working across the stack — from crafting responsive front-ends to building powerful back-end systems using tools like HTML, CSS, JavaScript, Node.js, React, and PostgreSQL. I'm also diving into the world of Web3 and DApps to stay ahead of the curve.<br><br>Outside of code, I love gaming, traveling, and constantly exploring creative ways to express ideas through tech.
+I'm Pranshu,
+A full stack developer passionate about building web apps with clean code and creative user interfaces. I'm currently freelancing, learning, and exploring new job opportunities while working on real-world projects that help me grow as a developer.
 
 
 ## 🌐 Socials:
